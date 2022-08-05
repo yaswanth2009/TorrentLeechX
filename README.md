@@ -23,6 +23,21 @@
 
 ---
 
+
+##Deploy on Heroku
+
+
+
+
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/yaswanth2009/TorrentLeechX)
+
+
+
+
+
+
+
 ### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
 
 ## A Telegram Torrent , Direct Links (and yt-dlp) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
